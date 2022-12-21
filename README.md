@@ -1,6 +1,11 @@
 <div align="center"> 
   <h1>- 👋 Hi, I’m @LminWoo99</h1>
   <br>
+  ☁️Instagram☁️
+  <br>
+  <a href="http://www.instagram.com/min_lifel" target="_blank"><img src="https://img.shields.io/badge/Instagram-색코드?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <br>
+  <br>
 📧Email📧
   <br>
   mw310@naver.com
