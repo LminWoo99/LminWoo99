@@ -39,11 +39,18 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+  <br><br>
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/LminWoo99/)
 </div><br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" /> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true&theme=radical)
 </div>
+<br>
+
+
+
 <!---
 LminWoo99/LminWoo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
