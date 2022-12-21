@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>- 👋 Hi, I’m @LminWoo99</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
   <br>
   ☁️Instagram☁️
   <br>
