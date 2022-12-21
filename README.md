@@ -3,7 +3,8 @@
   <br>
   ☁️Instagram☁️
   <br>
-  <a href="http://www.instagram.com/min_lifel" target="_blank"><img src="https://img.shields.io/badge/Instagram-색코드?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="http://www.instagram.com/min_lifel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/profile.php?id=100006198942364&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <br>
   <br>
 📧Email📧
