@@ -12,7 +12,7 @@
   <br>
 <br>
   반갑습니다👋<br> 
-  저는 이민우이고 백엔드르 공부하고 있아요!<br>
+  저는 이민우이고 백엔드를 공부하고 있아요!<br>
   현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
   <br>
   
@@ -21,7 +21,7 @@
   <br>
 💡used as the main💡
 <br>
-  <br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
