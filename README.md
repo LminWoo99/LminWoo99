@@ -11,6 +11,11 @@
   mw310@naver.com
   <br>
 <br>
+  반갑습니다👋<br> 
+  저는 이민우이고 백엔드르 공부하고 있아요!<br>
+  현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
+  <br>
+  
  📚Tech Stack📚
   <br>
   <br>
@@ -35,7 +40,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   
-</div>
+</div><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true&theme=radical)
 </div>
