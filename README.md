@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
   <br> 
   반갑습니다👋<br> 
-  저는 이민우이고 백엔드를 공부하고 있아요!<br>
+  저는 이민우이고 백엔드를 공부하고 있어요!<br>
   현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
   <br>
   <br>
