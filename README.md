@@ -43,10 +43,15 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/LminWoo99/)
 </div><br><br>
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" /> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true&theme=radical)
-</div>
+ </div>
+ <div align="center">
+  
+![https://github.com/LminWoo99/](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true)
+[![https://github.com/LminWoo99/](https://github-readme-stats.vercel.app/api/top-langs/?username=LminWoo99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LminWoo99)
+
+  </div>
+
 <br>
 
 
