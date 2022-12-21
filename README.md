@@ -1,10 +1,15 @@
 <div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
+  <br> 
+  반갑습니다👋<br> 
+  저는 이민우이고 백엔드를 공부하고 있아요!<br>
+  현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
+  <br>
   <br>
   ☁️Instagram☁️
   <br>
   <a href="http://www.instagram.com/min_lifel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.facebook.com/profile.php?id=100006198942364&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+ 
   <br>
   <br>
 📧Email📧
@@ -12,10 +17,7 @@
   mw310@naver.com
   <br>
 <br>
-  반갑습니다👋<br> 
-  저는 이민우이고 백엔드를 공부하고 있아요!<br>
-  현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
-  <br>
+ 
   
  📚Tech Stack📚
   <br>
