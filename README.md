@@ -40,9 +40,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=.Net&logoColor=white"/>
   <br><br>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/LminWoo99/)
