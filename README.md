@@ -59,8 +59,7 @@
   </div>
 
 <br>
-
-[![http://mazassumnida.wtf/api/generate_badge?boj={mw310})](https://solved.ac/{mw310})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mw310)](https://solved.ac/mw310)
 
 
 <!---
