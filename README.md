@@ -60,7 +60,7 @@
 
 <br>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310">
+<src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310">
 
 
 <!---
