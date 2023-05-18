@@ -57,7 +57,7 @@
 [![https://github.com/LminWoo99/](https://github-readme-stats.vercel.app/api/top-langs/?username=LminWoo99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LminWoo99)
 
   </div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj="mw310")](https://solved.ac/"mw310"/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={mw310})](https://solved.ac/{mw310})
 <br>
 
 
