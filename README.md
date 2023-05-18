@@ -60,7 +60,7 @@
 
 <br>
 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310">
+[![http://mazassumnida.wtf/api/generate_badge?boj={mw310})](https://solved.ac/{mw310})
 
 
 <!---
