@@ -59,8 +59,8 @@
   </div>
 
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mw310})](https://solved.ac/{mw310})
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310">
 
 
 <!---
