@@ -4,12 +4,7 @@
   반갑습니다👋<br> 
   저는 이민우이고 백엔드를 공부하고 있어요!<br>
   현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
-  <br>
-  <br>
-  ☁️Instagram☁️
-  <br>
-  <a href="http://www.instagram.com/min_lifel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- 
+
   <br>
   <br>
 📧Email📧
@@ -60,6 +55,11 @@
 
 <br>
 
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310)](https://solved.ac/mw310/)
+
+</div>
 
 
 <!---
