@@ -1,9 +1,13 @@
-## 주니어 백엔드 개발자 이민우입니다. 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+## 백엔드 개발자가 되기위해 공부 중인 이민우입니다. 
 - My Resume is here! 👉 [RESUME](https://gleaming-plant-c17.notion.site/32d14f2f8a2d44699f114aa88c844f71?pvs=4)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
 - My Email is here! 👉 mw310@naver.com
- 
+ ㅌ
 ## 📚Tech Stack📚
 
 ### Back-End
@@ -35,20 +39,26 @@
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
 </div>
   <br><br>
+  <!--- stats & Trophy (start) -->
+<p>
+  <!--- stats (start) -->
+<table>
+<tr border="none">
+<td width="50%" align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/LminWoo99/)
-</div><br><br>
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=LminWoo99&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LminWoo99&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LminWoo99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
- </div>
-
-  
-![https://github.com/LminWoo99/](https://github-readme-stats.vercel.app/api?username=LminWoo99&show_icons=true)
-[![https://github.com/LminWoo99/](https://github-readme-stats.vercel.app/api/top-langs/?username=LminWoo99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LminWoo99)
-
-  </div>
-
-<br>
-
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310)](https://solved.ac/mw310/)
