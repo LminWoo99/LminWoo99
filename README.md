@@ -1,19 +1,11 @@
-
-  <br> 
-  반갑습니다👋<br> 
-  저는 이민우이고 백엔드를 공부하고 있어요!<br>
-  현재 대학교에 재학중이며 모든 배우려는 자세로 학습에 임하고 있습니다.<br>
-
-  <br>
-  <br>
-📧Email📧
-  <br>
-  mw310@naver.com
-  <br>
-<br>
+## 주니어 백엔드 개발자 이민우입니다. 
+- My Resume is here! 👉 [RESUME](https://gleaming-plant-c17.notion.site/32d14f2f8a2d44699f114aa88c844f71?pvs=4)
+- 🌱 I'm currently learning Back-end and DevOps
+- 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
+- My Email is here! 👉 mw310@naver.com
  
-📚Tech Stack📚
-  <br>
+## 📚Tech Stack📚
+
 ### Back-End
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -23,9 +15,11 @@
   <img src="https://img.shields.io/badge/Spring security-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/Python-02303A?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+  <img src="https://img.shields.io/badge/FireBase-569A31?style=for-the-badge&logo=FireBase&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon CodeDeploy-4454D6?style=for-the-badge&logo=Amazon CodeDeploy&logoColor=white">
