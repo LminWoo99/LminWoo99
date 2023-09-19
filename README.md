@@ -2,7 +2,7 @@
   <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## 백엔드 개발자가 되기위해 공부 중인 이민우입니다. 
+## 주니어 백엔드 개발자 이민우입니다. 
 - My Resume is here! 👉 [RESUME](https://gleaming-plant-c17.notion.site/32d14f2f8a2d44699f114aa88c844f71?pvs=4)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
