@@ -3,7 +3,7 @@
 </a>
 
 ## 주니어 백엔드 개발자 이민우입니다. 
-- My Resume is here! 👉 [RESUME](https://gleaming-plant-c17.notion.site/32d14f2f8a2d44699f114aa88c844f71?pvs=4)
+- My Resume is here! 👉 [RESUME]
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
 - My Email is here! 👉 mw310@naver.com
