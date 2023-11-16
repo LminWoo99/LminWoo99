@@ -62,7 +62,6 @@
 <!--- stats (end) -->
 
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mw310)](https://solved.ac/mw310/)
 
 </div>
 
