@@ -58,10 +58,11 @@
   
   </td>
 </tr>
+
 </table>
 <!--- stats (end) -->
 
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aksdn1285)](https://solved.ac/aksdn1285/)
 
 </div>
 
