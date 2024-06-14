@@ -2,8 +2,8 @@
   <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## 주니어 백엔드 개발자 이민우입니다. 
-- My Resume is here! 👉 [RESUME]
+## 신입 백엔드 개발자 이민우입니다. 
+- My Portfolio is here! 👉 [Portfolio](https://www.notion.so/2bb510f1429947c7a42675999e34a9d7)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
 - My Email is here! 👉 mw310@naver.com
