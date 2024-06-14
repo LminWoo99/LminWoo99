@@ -3,7 +3,7 @@
 </a>
 
 ## 신입 백엔드 개발자 이민우입니다. 
-- My Portfolio is here! 👉 [Portfolio](https://www.notion.so/2bb510f1429947c7a42675999e34a9d7)
+- My Portfolio is here! 👉 [Portfolio]
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
 - My Email is here! 👉 mw310@naver.com
