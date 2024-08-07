@@ -2,7 +2,7 @@
   <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## 신입 백엔드 개발자 이민우입니다. 
+## 백엔드 공부 중인 이민우입니다. 
 - My Portfolio is here! 👉 [Portfolio]
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
