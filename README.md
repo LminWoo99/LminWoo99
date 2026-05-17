@@ -5,7 +5,7 @@
 ## 백엔드 공부 중인 이민우입니다. 
 - My Portfolio is here! 👉 [Portfolio]
 - 🌱 I'm currently learning Back-end and DevOps
-- 📝 I regularly write articles on [MY BLOG](https://velog.io/@mw310)
+- 📝 I regularly write articles on [MY BLOG]()
 - My Email is here! 👉 mw310@naver.com
   
 ## 📚Tech Stack📚
@@ -66,10 +66,7 @@
 </table>
 <!--- stats (end) -->
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aksdn1285)](https://solved.ac/aksdn1285/)
-    ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mw310?theme=light&posts=3)
- 
-</div>
+  
 
 
 <div align='center'> 
